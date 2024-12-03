@@ -1,0 +1,7 @@
+.....How to login my web site....
+*First type :localhost/my project/login.html
+
+*set on Display type Email:abc@gmail.com
+                     password:1234
+*set on Show Display usename:admin
+                     password:1234
